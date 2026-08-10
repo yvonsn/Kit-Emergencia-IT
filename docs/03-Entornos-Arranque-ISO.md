@@ -75,6 +75,14 @@ Al arrancar el equipo desde el USB, Ventoy detecta las imágenes disponibles y p
 
 Esto permite mantener diferentes herramientas de arranque en un único dispositivo sin tener que preparar una memoria USB independiente para cada ISO.
 
+<p align="center">
+  <img src="../screenshots/01-interfaz-acceso.png" width="400">
+</p>
+
+<p align="center">
+  <em>Figura 1. Menú de arranque de Ventoy con los diferentes entornos ISO del Kit de Emergencia IT.</em>
+</p>
+
 ---
 
 ## Resultado
