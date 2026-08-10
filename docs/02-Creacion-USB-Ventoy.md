@@ -69,6 +69,14 @@ Además de las imágenes ISO, el dispositivo contiene el **Kit de Emergencia IT*
 
 La organización separada de las imágenes de arranque y las herramientas de soporte permite utilizar el USB tanto como dispositivo multiboot como repositorio portátil de utilidades técnicas.
 
+<p align="center">
+  <img src="../screenshots/02-estructura-usb.png" width="400">
+</p>
+
+<p align="center">
+  <em>Figura 1. Estructura principal del USB Kit de Emergencia IT preparado con Ventoy.</em>
+</p>
+
 ---
 
 ## Comprobación
