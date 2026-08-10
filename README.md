@@ -63,16 +63,18 @@ La interfaz está diseñada para agilizar la localización de recursos durante l
 
 ## 📂 Documentación
 
-La documentación del proyecto se organiza en:
+La documentación completa del proyecto se encuentra organizada en los siguientes apartados:
 
-1. Introducción
-2. Creación del USB con Ventoy
-3. Entornos de arranque e ISO
-4. Herramientas IT
-5. Documentación y drivers
-6. Scripts de soporte
-7. Pruebas realizadas
-8. Conclusiones
+| Nº | Documento | Descripción |
+|---|---|---|
+| 01 | [Introducción](docs/01-Introduccion.md) | Objetivo, diseño y alcance del Kit de Emergencia IT |
+| 02 | [Creación del USB con Ventoy](docs/02-Creacion-USB-Ventoy.md) | Preparación del USB multiboot y organización inicial |
+| 03 | [Entornos de arranque e ISO](docs/03-Entornos-Arranque-ISO.md) | Clonezilla, GParted, Hiren's BootCD PE, Rescuezilla, Ubuntu Live y WinPE11 |
+| 04 | [Herramientas IT](docs/04-Herramientas-IT.md) | Herramientas de diagnóstico, disco, recuperación, sistema, red y seguridad |
+| 05 | [Documentación y drivers](docs/05-Documentacion-Drivers.md) | Guías rápidas de consulta y herramientas para controladores |
+| 06 | [Scripts de soporte](docs/06-Scripts.md) | Scripts Batch para diagnóstico y mantenimiento |
+| 07 | Pruebas | Validación del USB, Ventoy y entornos de arranque *(pendiente)* |
+| 08 | [Conclusiones](docs/08-Conclusiones.md) | Resultados, aprendizajes y posibles mejoras |
 
 ## 📜 Scripts
 
