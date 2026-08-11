@@ -59,7 +59,6 @@ El USB incorpora una interfaz desarrollada mediante `index.html` que permite acc
 
 La interfaz está diseñada para agilizar la localización de recursos durante las tareas de soporte técnico.
 
-> **Aquí insertaremos la captura de la interfaz principal**
 
 ## 📂 Documentación
 
